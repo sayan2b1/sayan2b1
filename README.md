@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,tailwind,vite,arduino,matlab,linux,git,github" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,react,tailwind,vite,firebase,fastapi,arduino,matlab,linux,git,github" alt="Tech Stack" />
   </a>
 </p>
 
@@ -31,10 +31,14 @@
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| [Regional Disaster Response Agent](https://github.com/sayan2b1/disaster-response-agent) | AI-driven emergency simulation & hazard dashboard with live Open-Meteo telemetry and Wokwi ESP32 alerts | Python, HTML, Tailwind CSS, JS, ESP32 (C++) |
-| [eSim Ubuntu 26.04 Toolchain Support](https://github.com/sayan2b1/eSim/tree/installer) | Upgraded eSim 2.5, KiCad 9, NGHDL, & LLVM-18 installer scripts for Ubuntu 26.04 LTS compatibility | Bash, Linux, Python, KiCad, Ngspice |
-| [IoT Weather Station Dashboard](https://github.com/sayan2b1/iot-weather-dashboard) | Real-time temperature and humidity monitoring dashboard for IoT sensor nodes | Vite, JavaScript, HTML, CSS, IoT |
-| eSim Automated Tool Manager *(FOSSEE Internship)* | Cross-platform CLI utility automating EDA dependency verification, upgrades, and environment configs | Python, CLI, Linux, Windows |
+| [SP09: Spectral Leakage Analyzer](https://github.com/sayan2b1/sp09-spectral) | Academic DSP workbench comparing Rectangular, Hann, Hamming, Blackman, and Bartlett windows with pure JS Cooley-Tukey Radix-2 FFT, zero-padded dB spectra, and real-time lobe metric quantification | React, Vite, Recharts, Pure JS FFT, DSP |
+| [MockShift (SimulCast AI)](https://github.com/sayan2b1/MockShift) | AI-powered "Bring Your Own Paper" (BYOP) CBT exam simulator & autopsy engine for competitive exams (CAT, GATE, JEE) with token-optimized Gemini integration | Python, FastAPI, Gemini API, Tailwind, Render |
+| [Regional Disaster Response Agent](https://github.com/sayan2b1/disaster-response-agent) | AI-driven emergency simulation & tactical command dashboard with live Open-Meteo telemetry, hydraulic runoff modeling, and Wokwi ESP32 alerts | Python, HTML, Tailwind CSS, JS, ESP32 (C++) |
+| [IoT Weather Station Dashboard](https://github.com/sayan2b1/iot-weather-dashboard) | Full-stack IoT environmental monitoring platform streaming live DHT11 telemetry and automated fan relay triggers via Firebase Realtime Database | React, Vite, Firebase, ESP32, Recharts |
+| [eSim Automated Tool Manager](https://github.com/sayan2b1/esim-tool-manager) | Cross-platform CLI utility developed for FOSSEE (IIT Bombay) automating EDA toolchain dependency validation, upgrades, and system configurations | Python, CLI, Bash, Linux, KiCad |
+| [PhantomMesh](https://github.com/sayan2b1/PhantomMesh) | Resilient peer-to-peer off-grid mesh messaging platform designed for decentralized communication during disaster scenarios and network outages | Python, WebSockets, React, Networking |
+| [KrishiSync](https://github.com/sayan2b1/krishisync) | Smart agriculture IoT telemetry & diagnostics platform for real-time farm sensor tracking, crop health monitoring, and advisory alerts | React, Firebase, IoT, Node.js |
+| [eSim Ubuntu Toolchain Support](https://github.com/sayan2b1/eSim/tree/installer) | Upgraded open-source EDA installation pipeline for eSim 2.5, KiCad 9, NGHDL, & LLVM-18 compatibility on modern Linux distributions | Bash, Linux, Python, KiCad, Ngspice |
 
 ---
 
